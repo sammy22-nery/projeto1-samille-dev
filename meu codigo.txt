@@ -1,3 +1,6 @@
 olá, meu nome é Samille
 
 /*git add.  serve para add todos os projetos de uma vez*/
+git status serve para ver o status do codigo
+git comit -m "" serve para usar sempre que for usar uma nova versao no codigo
+git push serve para enviar os codigos para git hub
